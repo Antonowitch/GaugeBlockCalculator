@@ -1,4 +1,4 @@
-# GaugeBlockCalculator
+# GaugeBlockCalculator / Endmaßrechner
 Author: Anton CNC
 YouTube: https://www.youtube.com/@boessi
 This program has the following advantages:
