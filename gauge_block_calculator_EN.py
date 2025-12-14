@@ -1,5 +1,5 @@
 '''
-Author: Anton CN
+Author: Anton CNC
 YouTube: https://www.youtube.com/@boessi
 This program has the following advantages:
 -It is guaranteed to find the exact combination of end gauges if one exists.
